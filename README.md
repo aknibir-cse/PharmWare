@@ -23,7 +23,7 @@ Users of the app are only Medical store owner or any Pharmacy owner, using to st
 ![](./images/usecase.jpg)
 
 ## To Run App
-1. Download ```APP-APK.apk``` [Download Link]( "Direct Download")
+1. Download ```APP-APK.apk``` [Download Link](https://raw.githubusercontent.com/aknibir-cse/PharmWare/main/APP-APK.apk "Direct Download")
 1. Install on Android Device and run.
 
 ## To use source code : 
