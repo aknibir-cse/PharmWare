@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308747336115",
+    "project_id": "pharmware-95979",
+    "storage_bucket": "pharmware-95979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308747336115:android:d22227b39135093ec9f3c6",
+        "android_client_info": {
+          "package_name": "com.pharmware.epharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308747336115-13besbcvcfb6ljh4mmes3r98efncsvnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pharmware.epharma",
+            "certificate_hash": "ac9889f3475b1a4e5239addc10cf3d2c28dd196e"
+          }
+        },
+        {
+          "client_id": "308747336115-lamg5bn5f9b88evdv4otpq0d7pq3jl6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoogQGNO684aaiHNxU1gqsYxQveeWlsd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308747336115-lamg5bn5f9b88evdv4otpq0d7pq3jl6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
